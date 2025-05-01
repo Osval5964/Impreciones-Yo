@@ -61,7 +61,7 @@
 </head>
 <body>
   <div class="contenedor">
-    <h1>IMPRECIONES Y.O</h1>
+    <h1>IMPRESIONES Y.O</h1>
     <div class="item"><span>Hoja de texto:</span> $15</div>
     <div class="item"><span>Doble cara:</span> $20</div>
     <div class="item"><span>Fotos - Hoja entera:</span> $60</div>
